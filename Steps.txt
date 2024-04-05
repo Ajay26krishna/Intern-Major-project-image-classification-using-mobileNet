@@ -1,0 +1,7 @@
+1. data gathering: data from bing on cats and dogs using bing library in python in seperate file
+2. model: MobileNetV2 , training and testing in seperate file
+
+3. streamlit - f website app as deployment
+
+
+
